@@ -1,0 +1,8 @@
+# Actions runs on Linux — CRLF would break bash run-blocks in the workflow.
+# Force LF for all text files stored in the repo.
+* text=auto eol=lf
+*.mp4 -text
+*.mp3 -text
+*.png -text
+*.jpg -text
+*.ttf -text
