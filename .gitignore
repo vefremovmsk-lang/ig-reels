@@ -1,0 +1,5 @@
+media/caption.txt
+__pycache__/
+*.pyc
+.DS_Store
+out.mp4
